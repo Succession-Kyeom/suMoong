@@ -1,0 +1,12 @@
+﻿  suMoong.cpp
+C:\Users\김승겸\OneDrive\문서\프로그래밍\suMoong\suMoong\suMoong.cpp(261,13): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\김승겸\OneDrive\문서\프로그래밍\suMoong\suMoong\suMoong.cpp(270,13): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\김승겸\OneDrive\문서\프로그래밍\suMoong\suMoong\suMoong.cpp(287,13): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\김승겸\OneDrive\문서\프로그래밍\suMoong\suMoong\suMoong.cpp(303,13): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\김승겸\OneDrive\문서\프로그래밍\suMoong\suMoong\suMoong.cpp(258,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\김승겸\OneDrive\문서\프로그래밍\suMoong\suMoong\suMoong.cpp(335,13): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\김승겸\OneDrive\문서\프로그래밍\suMoong\suMoong\suMoong.cpp(341,13): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\김승겸\OneDrive\문서\프로그래밍\suMoong\suMoong\suMoong.cpp(331,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\김승겸\OneDrive\문서\프로그래밍\suMoong\suMoong\suMoong.cpp(408,14): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\김승겸\OneDrive\문서\프로그래밍\suMoong\suMoong\suMoong.cpp(405,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  suMoong.vcxproj -> C:\Users\김승겸\OneDrive\문서\프로그래밍\suMoong\x64\Debug\suMoong.exe
